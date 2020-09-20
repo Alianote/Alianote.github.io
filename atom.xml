@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com</id>
+    <id>https://Aliacarp.github.io</id>
     <title>鲤鲤的三维笔记</title>
-    <updated>2020-09-19T23:33:59.562Z</updated>
+    <updated>2020-09-20T00:17:37.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com"/>
-    <link rel="self" href="https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <link rel="alternate" href="https://Aliacarp.github.io"/>
+    <link rel="self" href="https://Aliacarp.github.io/atom.xml"/>
     <subtitle>我最后的敬礼要献给那些知道我不完美，却依然爱我的人。</subtitle>
-    <logo>https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
-    <icon>https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <logo>https://Aliacarp.github.io/images/avatar.png</logo>
+    <icon>https://Aliacarp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 鲤鲤的三维笔记</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/post/ce-shi/</id>
-        <link href="https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/post/ce-shi/">
+        <id>https://Aliacarp.github.io/post/ce-shi/</id>
+        <link href="https://Aliacarp.github.io/post/ce-shi/">
         </link>
         <updated>2020-09-19T23:07:35.000Z</updated>
         <content type="html"><![CDATA[<p>测试测试测试</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
-        <link href="https://https://coding-pages-bucket-3475707-7953979-849-319500-1259213446.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+        <id>https://Aliacarp.github.io/post/hello-gridea/</id>
+        <link href="https://Aliacarp.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>

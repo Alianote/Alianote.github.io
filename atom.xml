@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alianote.github.io</id>
     <title>鲤鲤的三维笔记</title>
-    <updated>2020-09-20T15:08:01.701Z</updated>
+    <updated>2020-09-20T23:37:43.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alianote.github.io"/>
     <link rel="self" href="https://alianote.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://alianote.github.io/images/avatar.png</logo>
     <icon>https://alianote.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 鲤鲤的三维笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[213]]></title>
+        <id>https://alianote.github.io/post/213/</id>
+        <link href="https://alianote.github.io/post/213/">
+        </link>
+        <updated>2020-09-20T15:10:16.000Z</updated>
+        <content type="html"><![CDATA[<p>测试测试测试测试</p>
+<figure data-type="image" tabindex="1"><img src="https://tcs.teambition.net/storage/111x06f4aae3838d7ab359da302106a6a8da?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmNThhOWUwYzhiNTI2MTRmMDA4NTc2OCIsImV4cCI6MTYwMTIxOTM0MiwiaWF0IjoxNjAwNjE0NTQyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXgwNmY0YWFlMzgzOGQ3YWIzNTlkYTMwMjEwNmE2YThkYSJ9.4a-pJQF4DVdIuSbdFmPBHmwhoQvVgtPOIQPWt89XgIU&amp;download=SP_BJ_02.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://tcs.teambition.net/storage/111x1949c4604324f015bd27f86a9c538140?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmNThhOWUwYzhiNTI2MTRmMDA4NTc2OCIsImV4cCI6MTYwMTIxOTM2MCwiaWF0IjoxNjAwNjE0NTYwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXgxOTQ5YzQ2MDQzMjRmMDE1YmQyN2Y4NmE5YzUzODE0MCJ9.LeASAEJcrXw8rIrszEvum5KWnuTQwxeInJNcna1x_ts&amp;download=SP_BJ_06.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance Painter]]></title>
         <id>https://alianote.github.io/post/substance-painter-bi-ji/</id>
@@ -42,28 +53,23 @@
 <p>Normal  法线</p>
 </li>
 </ul>
-<h2 id="sp基本用法">SP基本用法</h2>
+<h1 id="sp基本用法">SP基本用法</h1>
 <h3 id="基础颜色材质区分">基础颜色/材质区分</h3>
 <ul>
 <li>把金属；木材；塑料等材质通过添加<strong>遮罩</strong>区分开来，可以通过  <strong>颜色</strong>选择 <strong>模型</strong>选择 <strong>画笔选</strong>择</li>
 </ul>
 <h3 id="文字图案添加">文字图案添加</h3>
-<figure data-type="image" tabindex="1"><img src="https://pic.downk.cc/item/5f67586c160a154a67048eb8.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://tcs.teambition.net/storage/111xc26836943b10acabf0681ccc8acd5354?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmNThhOWUwYzhiNTI2MTRmMDA4NTc2OCIsImV4cCI6MTYwMTI0OTYzMCwiaWF0IjoxNjAwNjQ0ODMwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXhjMjY4MzY5NDNiMTBhY2FiZjA2ODFjY2M4YWNkNTM1NCJ9.gKXbz1r5DF5-PDhvgY4vUuYNSf2t9u2AxXIzO9a_lHk&amp;download=23423.JPG" alt="" loading="lazy"></figure>
 <p>PS制作PNG图片——添加映射图层</p>
 <h3 id="纹理丰富"><strong>纹理丰富</strong></h3>
 <p><strong>表面高度纹理添加</strong></p>
 <p>规则纹理凹凸：可以使用程序化贴图制作</p>
 <p>不规则纹理凹凸：可以找适合的透贴和在PS中绘制以及使用画笔制作</p>
-<p>透明纹理【例如孔状】：PS绘制黑白遮罩</p>
-<p>选择着色器</p>
-<figure data-type="image" tabindex="2"><img src="https://pic.downk.cc/item/5f67586c160a154a67048ec2.png" alt="" loading="lazy"></figure>
-<p>添加通道，黑色穿透，白色不改变</p>
-<figure data-type="image" tabindex="3"><img src="https://pic.downk.cc/item/5f67586c160a154a67048ec5.png" alt="" loading="lazy"></figure>
-<p><img src="https://pic.downk.cc/item/5f675870160a154a67049167.png" alt="" loading="lazy"><img src="https://pic.downk.cc/item/5f67586c160a154a67048ebc.png" alt="" loading="lazy"><img src="https://pic.downk.cc/item/5f67586c160a154a67048ebe.png" alt="" loading="lazy"></p>
-<p>可以添加模糊滤镜模糊透贴</p>
+<p>透明纹理【例如孔状】：PS绘制黑白遮罩-选择着色器-添加通道-可以添加模糊滤镜模糊透贴</p>
 <h3 id="表面丰富">表面丰富</h3>
 <p>模型颜色与纹路的变化</p>
 <p>通过贴图的叠加</p>
+<figure data-type="image" tabindex="2"><img src="https://tcs.teambition.net/storage/111x26eecdcf03d3a17176eb2f92b0790f06?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmNThhOWUwYzhiNTI2MTRmMDA4NTc2OCIsImV4cCI6MTYwMTI0OTU0OCwiaWF0IjoxNjAwNjQ0NzQ4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXgyNmVlY2RjZjAzZDNhMTcxNzZlYjJmOTJiMDc5MGYwNiJ9.xTdIvjUfD38cf7iliYLL7ryhr6FDSlsdpDbwtiOr9eE&amp;download=2213.jpg" alt="" loading="lazy"></figure>
 <h3 id="脏迹">脏迹</h3>
 <p><strong>油污</strong>：通过不同颜色叠加再调整流量</p>
 <p><strong>灰尘</strong>：使用渐变生成器Linear Gradient生成遮罩+细碎贴图</p>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alianote.github.io</id>
     <title>鲤鲤的三维笔记</title>
-    <updated>2020-09-20T01:45:46.184Z</updated>
+    <updated>2020-09-20T05:07:51.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alianote.github.io"/>
     <link rel="self" href="https://alianote.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://alianote.github.io/images/avatar.png</logo>
     <icon>https://alianote.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 鲤鲤的三维笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[Substance Painter笔记]]></title>
+        <id>https://alianote.github.io/post/substance-painter-bi-ji/</id>
+        <link href="https://alianote.github.io/post/substance-painter-bi-ji/">
+        </link>
+        <updated>2020-09-20T04:09:28.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="基础知识">基础知识</h1>
+<h3 id="快捷键">快捷键</h3>
+<p>F1/2/3 切换3D/2D视图</p>
+<p>Alt+左键旋转UV视图；Alt+左键+shift  90°旋转UV视图</p>
+<p>ctrl+鼠标右键  笔刷大小</p>
+<p>SHIFT+鼠标右键  移动光线</p>
+<h3 id="材质属性">材质属性</h3>
+<ul>
+<li>Base  Color 颜色</li>
+<li>Height  高度</li>
+<li>Roughness  粗糙度</li>
+<li>Metallie  金属度</li>
+<li>Normal  法线</li>
+</ul>
+<h2 id="基础颜色材质区分">基础颜色/材质区分</h2>
+<ul>
+<li>把金属；木材；塑料等材质通过添加遮罩区分开来，颜色选择，模型选择，画笔选择</li>
+<li>a</li>
+</ul>
+<h2 id="颜色选择">颜色﻿选择</h2>
+<p>材质属性  金属度  粗糙度</p>
+<h2 id="文字图案添加">文字图案添加</h2>
+<h2 id="纹理结构">纹理结构</h2>
+<h2 id="表面丰富">表面丰富</h2>
+<h2 id="脏迹">脏迹</h2>
+<h2 id="划痕">划痕</h2>
+<h2 id="老化">老化</h2>
+<h2 id="整体调整">整体调整</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://alianote.github.io/post/ce-shi/</id>
